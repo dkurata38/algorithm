@@ -1,3 +1,5 @@
+package com.github.dkurata38.algorithm.date_20190619
+
 import scala.io.StdIn
 
 object CoinMain extends App {
@@ -20,7 +22,7 @@ object CoinMain extends App {
     if (amount == X) 1 else 0
   }
 
-  val count = results.filter(n => n == 1).size
+  val count = results.count(n => n == 1)
 
   println(count)
 }

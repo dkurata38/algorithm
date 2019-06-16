@@ -1,3 +1,5 @@
+package com.github.dkurata38.algorithm.date_20190619
+
 import scala.io.StdIn
 
 object SumMain extends App {
