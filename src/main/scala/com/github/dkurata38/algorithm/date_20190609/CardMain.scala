@@ -1,4 +1,4 @@
-package com.github.dkurata38.algorithm.date_20190619
+package com.github.dkurata38.algorithm.date_20190609
 
 import scala.io.StdIn
 
